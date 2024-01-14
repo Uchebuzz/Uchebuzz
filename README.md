@@ -1,18 +1,15 @@
 ## Hi there 👋
 <br>
+I'm a Data scientist and Technical Writer.
 
-I'm a data scientist and Technical Writer.
-
+## :smile: Fun Facts 
 <br>
 
-### Fun Facts :smile: 
-
 - 🔭 I’m currently working on Documenting a style guide for a startup
--  :man_student: I'm currently a masters student studying data science at University of Wolverhampton
+-  :man_student: currently studying data science at University of Wolves (msc)
 - 🌱 I’m currently learning to get better everyday
 - 👯 I’m looking to collaborate on Technical documents
-- ⚡ Fun fact: I love ♟️
+- ♟️ Fun fact: I love chess 
 
-### My recent Wroks
--
+
 
