@@ -2,7 +2,7 @@
 <br>
 I'm a Data scientist and Technical Writer.
 
-<p align="center">
+<p align="left">
  
 <br>
 <a href=" https://www.linkedin.com/in/uche-buzugbe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
