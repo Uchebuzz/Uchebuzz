@@ -33,7 +33,3 @@ I'm a Data scientist and Technical Writer.
 - [Why you need a Technical Writer](https://www.linkedin.com/pulse/why-you-need-technical-writer-your-company-uche-buzugbe/?trackingId=Wc2KmTLSRqOeNLegRP9nfA%3D%3D)
 - [Mistakes Freelancers make](https://www.linkedin.com/pulse/three-mistakes-freelancers-keep-making-uche-buzugbe/?trackingId=Wc2KmTLSRqOeNLegRP9nfA%3D%3D)
 - Read more on [my blog](https://www.linkedin.com/in/uche-buzugbe/recent-activity/articles/)
-
-
-
-
