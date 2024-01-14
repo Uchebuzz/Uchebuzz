@@ -10,12 +10,12 @@ I'm a Data scientist and Technical Writer.
 - 🌱 I’m currently learning to get better everyday
 - ♟️ Fun fact: I love chess
 
-## Data Science Projects
+## Data Science Projects :bar_chart:
 <br>
 
 
 
-## Technical Documents
+## Technical Documents :black_nib:
 <br>
 
 
