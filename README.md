@@ -15,8 +15,8 @@ I'm a Data scientist and Technical Writer.
 
 - :black_nib: currently working on documenting a style guide for [AI Platform](https://aiacademy.africa/)
 -  :man_student: currently studying data science at University of Wolves (msc)
-- 🌱 currently learning to Machine Learning with [SAS Visual Analytics](https://www.sas.com/en_us/home.html)
-- ♟️ I binge watch chess
+- 🌱 currently learning Machine Learning with [SAS Visual Analytics](https://www.sas.com/en_us/home.html)
+- ♟️ I love to play and watch chess games
 
 ## Data Science Projects :bar_chart:
 <br>
