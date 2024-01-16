@@ -13,10 +13,10 @@ I'm a Data scientist and Technical Writer.
 ## :smile: Fun Facts 
 <br>
 
-- :black_nib: currently working on Documenting a style guide for a startup company
+- :black_nib: currently working on documenting a style guide for [AI Platform](https://aiacademy.africa/)
 -  :man_student: currently studying data science at University of Wolves (msc)
 - 🌱 currently learning to Machine Learning with [SAS Visual Analytics](https://www.sas.com/en_us/home.html)
-- ♟️ I love chess
+- ♟️ I binge watch chess
 
 ## Data Science Projects :bar_chart:
 <br>
