@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 <br>
 I'm a Data scientist and Technical Writer.
 
