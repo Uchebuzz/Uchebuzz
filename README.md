@@ -1,6 +1,6 @@
 ## Hello there 👋
 <br>
-I'm a Seasoned data scientist and technical Writer.
+I'm a seasoned Data scientist and Technical Writer.
 
 <p align="left">
  
