@@ -32,5 +32,6 @@ I'm a seasoned Data scientist and Technical Writer.
 <br>
 
 - [Why you need a Technical Writer](https://www.linkedin.com/pulse/why-you-need-technical-writer-your-company-uche-buzugbe/?trackingId=Wc2KmTLSRqOeNLegRP9nfA%3D%3D)
+- [Tabuleau vs SAS Visual Analytics](https://www.linkedin.com/pulse/tableau-vs-sas-visual-analytics-detailed-comparison-uche-buzugbe-n0toe/?trackingId=YvN%2BNk9NQgms61FyxRTITg%3D%3D)
 - [Mistakes Freelancers make](https://www.linkedin.com/pulse/three-mistakes-freelancers-keep-making-uche-buzugbe/?trackingId=Wc2KmTLSRqOeNLegRP9nfA%3D%3D)
 - Read more on [my blog](https://www.linkedin.com/in/uche-buzugbe/recent-activity/articles/)
