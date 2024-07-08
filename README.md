@@ -22,7 +22,7 @@ I'm a seasoned Data scientist and Technical Author.
 ## Data Science Projects :bar_chart:
 <br>
 
-- [Analysing a snapshot of the 2021 Uk Census data Using R ](https://github.com/Uchebuzz/R-data-exploration-Portfolio/blob/main/Census%20data_2023.R)
+- [Predicting Wolverhampton Weather with Machine learning Models ](https://github.com/Uchebuzz/Weather-Prediction-Model)
 - [Analysing a snapshot of the Netflix data using tabuleau](https://public.tableau.com/app/profile/uchechukwu.buzugbe/viz/NetflixTabulea/NetflixDashboard)
 - [Predicting House Prices with maching learning models using python ](https://github.com/Uchebuzz/Python-Portfolio/blob/main/Housepricing%20(1).py)
 - Get more projects from my [portfolio](https://uchebuzz.github.io/Ucheportfolio.github.io/)
