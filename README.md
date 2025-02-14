@@ -14,7 +14,7 @@ I'm a seasoned Data scientist and Technical Author.
 <br>
 
 - :black_nib: currently documenting a style guide for [Analytics Intelligence Africa](https://analyticsintelligence.com/)
--  :man_student: currently studying data science at University of Wolves (msc)
+-  :man_student: data scientist  (msc)
 - 🌱 currently learning Java
 - ♟️ I love to play and watch football.
 - 🥘 I believe Pounded yam and Egusi soup is greatest discovery after penicilin.
