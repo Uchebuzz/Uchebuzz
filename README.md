@@ -12,8 +12,6 @@ I'm a seasoned Data scientist and Technical Author.
 
 ## :smile: Fun Facts 
 <br>
-
-- :black_nib: currently documenting a style guide for [Analytics Intelligence Africa](https://analyticsintelligence.com/)
 -  :man_student: data scientist  (msc)
 - 🌱 currently learning Java
 - ♟️ I love to play and watch football.
