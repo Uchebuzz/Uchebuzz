@@ -12,6 +12,7 @@ I'm a seasoned Data scientist and Technical Author.
 
 ## :smile: Fun Facts 
 <br>
+
 -  :man_student: data scientist  (msc)
 - 🌱 currently learning Java
 - ♟️ I love to play and watch football.
