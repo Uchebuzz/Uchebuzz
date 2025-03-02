@@ -13,8 +13,8 @@ I'm a seasoned Data scientist and Technical Author.
 ## :smile: Fun Facts 
 <br>
 
--  :man_student: data scientist  (msc)
-- 🌱 currently learning Java
+-  :man_student: Data scientist 
+- 🌱 currently learning Java.
 - ♟️ I love to play and watch football.
 - 🥘 I believe Pounded yam and Egusi soup is greatest discovery after penicilin.
 
