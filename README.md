@@ -23,7 +23,7 @@ I'm a seasoned Data scientist and Technical Author.
 
 - [Predicting Wolverhampton Weather with Machine learning Models ](https://github.com/Uchebuzz/Weather-Prediction-Model)
 - [Analysing a snapshot of the Netflix data using tabuleau](https://public.tableau.com/app/profile/uchechukwu.buzugbe/viz/NetflixTabulea/NetflixDashboard)
-- [Predicting House Prices with maching learning models using python ](https://github.com/Uchebuzz/Python-Portfolio/blob/main/Housepricing%20(1).py)
+- [Movie Recommendation system with maching learning models](https://github.com/Uchebuzz/Movie-recommender)
 - Get more projects from my [portfolio](https://uchebuzz.github.io/Ucheportfolio.github.io/)
 
 
