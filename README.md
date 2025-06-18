@@ -14,7 +14,7 @@ I'm a seasoned Data scientist and Technical Author.
 <br>
 
 -  :man_student: Data scientist 
-- 🌱 currently learning Java.
+- 🌱 currently learning Agentic AI Workflow.
 - ♟️ I love to play and watch football.
 - 🥘 I believe Pounded yam and Egusi soup is greatest discovery after penicilin.
 
