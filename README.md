@@ -10,14 +10,6 @@ I'm a seasoned Data scientist and Technical Author.
 <a href="https://medium.com/@buzugbeuche"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-roundedrectangle=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 <a href="mailto:buzugbeuche@gmail.com?subject= Hello!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-roundedrectangle=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-## :smile: Fun Facts 
-<br>
-
--  :man_student: Data scientist 
-- 🌱 currently learning Agentic AI Workflow.
-- ♟️ I love to play and watch football.
-- 🥘 I believe Pounded yam and Egusi soup is greatest discovery after penicilin.
-
 ## Data Science Projects :bar_chart:
 <br>
 
@@ -34,3 +26,12 @@ I'm a seasoned Data scientist and Technical Author.
 - [Tabuleau vs SAS Visual Analytics](https://www.linkedin.com/pulse/tableau-vs-sas-visual-analytics-detailed-comparison-uche-buzugbe-n0toe/?trackingId=YvN%2BNk9NQgms61FyxRTITg%3D%3D)
 - [Mistakes Freelancers make](https://www.linkedin.com/pulse/three-mistakes-freelancers-keep-making-uche-buzugbe/?trackingId=Wc2KmTLSRqOeNLegRP9nfA%3D%3D)
 - Read more on [my blog](https://www.linkedin.com/in/uche-buzugbe/recent-activity/articles/)
+
+
+## :smile: Fun Facts 
+<br>
+
+-  :man_student: Data scientist 
+- 🌱 currently learning Agentic AI Workflow.
+- ♟️ I love to play and watch football.
+- 🥘 I believe Pounded yam and Egusi soup is greatest discovery after penicilin.
