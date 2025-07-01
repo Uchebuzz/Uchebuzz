@@ -28,7 +28,7 @@ I'm a seasoned Data scientist and Technical Author.
 - Read more on [my blog](https://www.linkedin.com/in/uche-buzugbe/recent-activity/articles/)
 
 
-## :smile: Fun Facts 
+## Fun Facts :smile:
 <br>
 
 -  :man_student: Data scientist 
