@@ -34,4 +34,4 @@ I'm a seasoned Data scientist and Technical Author.
 -  :man_student: Data scientist 
 - 🌱 currently learning Agentic AI Workflow.
 - ♟️ I love to play and watch football.
-- 🥘 I believe Pounded yam and Egusi soup is greatest discovery after penicilin.
+- 🥘 I believe [Pounded yam and Egusi soup](https://www.google.com/search?q=pounded+yam+and+egusi+soup&rlz=1C1GCEA_enGB1158GB1160&oq=Pounded+yam+and+Egusi+soup&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBBzk3NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) is greatest discovery after penicilin.
