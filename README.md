@@ -6,7 +6,6 @@ I'm a seasoned Data scientist and Technical Author.
  
 <br>
 <a href=" https://www.linkedin.com/in/uche-buzugbe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-roundedrectangle=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/uche_buzz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-roundedrectangle=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://medium.com/@buzugbeuche"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-roundedrectangle=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 <a href="mailto:buzugbeuche@gmail.com?subject= Hello!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-roundedrectangle=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
