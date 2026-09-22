@@ -15,7 +15,7 @@ I'm a seasoned Data scientist and Technical Author.
 - [Predicting Wolverhampton Weather with Machine learning Models ](https://github.com/Uchebuzz/Weather-Prediction-Model)
 - [Analysing a snapshot of the Netflix data using tabuleau](https://public.tableau.com/app/profile/uchechukwu.buzugbe/viz/NetflixTabulea/NetflixDashboard)
 - [Movie Recommendation system with maching learning models](https://github.com/Uchebuzz/Movie-recommender)
-- Get more projects from my [portfolio](https://uchebuzz.github.io/Ucheportfolio.github.io/))
+- Get more projects from my [portfolio](https://uchebuzz.github.io/portfolio.io/)
 
 
 ## Technical Documents :black_nib:
